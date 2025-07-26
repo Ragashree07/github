@@ -13,3 +13,5 @@ class Testcountry:
         print("I am from Goa")
     def teststate5(self):
         print("I am not from Nagpur")
+    def teststate5(self):
+        print("I am not from Chennai")
