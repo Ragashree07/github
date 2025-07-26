@@ -13,3 +13,5 @@ def test_inexecute():
 @pytest.mark.xfail
 def test_noresult():
     print("This is xfail")
+def test_noresult():
+    print("This is xfail")
